@@ -1,0 +1,11 @@
+Sequencing run summary
+Platform: Illumina NovaSeq 6000
+Run completed: 2026-11-10
+Produced by: LCSB BioCore
+Skip these header lines before importing
+sample_id	instrument	read_count	gc_content
+S001	NovaSeq6000	1048576	0.41
+S002	NovaSeq6000	982314	0.43
+S003	NovaSeq6000	1120044	0.40
+S004	NovaSeq6000	1003298	0.44
+S005	NovaSeq6000	897651	0.39
